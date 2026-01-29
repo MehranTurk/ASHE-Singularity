@@ -87,7 +87,20 @@ Exploit Strategy: Ret2Libc (Bypass NX/ASLR)
 
 ## ⚖️ Legal Disclaimer
 
-**Author: MehranTurk(M.T)**
+**Author: MehranTurk (M.T)**
 
 
 This tool is intended **strictly for educational purposes** and authorized professional penetration testing. Attacking targets without prior written consent is illegal and punishable by law. The developer assumes no liability for any misuse, damage, or legal consequences resulting from the use of this framework. Use responsibly and legally.
+
+## 💰 Donate
+
+
+| Currency | Address |
+|-----------|----------|
+| **USDT / TRX** | `TSVd8USqUv1B1dz6Hw3bUCQhLkSz1cLE1v` |
+| **BTC** | `32Sxd8UJav7pERtL9QbAStWuFJ4aMHaZ9g` |
+| **ETH** | `0xb2ba6B8CbB433Cb7120127474aEF3B1281C796a6` |
+| **LTC** | `MEUoFAYLqrwxnUBkT4sBB63wAypKEdyewy` |
+
+---
+
